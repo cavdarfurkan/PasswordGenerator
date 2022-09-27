@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="enter_password">Geben Sie Ihr Passwort ein:</string>
+    <string name="set_password">Lege ein Passwort fest:</string>
+    <string name="error_match">Passwörter stimmen nicht überein</string>
+    <string name="title_activity_settings">die Einstellungen</string>
+    <string name="reset_pass">Passwort zurücksetzen</string>
+    <string name="password">Passwort</string>
+    <string name="old_password">altes Kennwort</string>
+    <string name="password_again">Passwort erneut</string>
+    <string name="generate">Generieren</string>
+    <string name="list">Liste</string>
+    <string name="lower_case">Kleinbuchstaben</string>
+    <string name="upper_case">Großbuchstaben</string>
+    <string name="length">Länge:</string>
+    <string name="numbers">Zahlen</string>
+    <string name="symbols">Symbole</string>
+    <string name="title">Titel</string>
+    <string name="username">Nutzername</string>
+    <string name="save">speichern</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="delete">Löschen</string>
+    <string name="options">Optionen</string>
+    <string name="small_or_equal_zero">Kann nicht kleiner oder gleich 0 sein</string>
+    <string name="select_option">Wählen Sie mindestens eine Option!</string>
+    <string name="incorrect_password">Falsches Passwort</string>
+    <string name="copied_clipboard">In die Zwischenablage kopiert</string>
+    <string name="data_already_exist">Diese Daten sind bereits vorhanden</string>
+    <string name="cannot_be_empty">Kann nicht leer sein!</string>
+    <string name="password_has_been_set">Passwort wurde gesetzt</string>
+    <string name="password_deleted">Das Passwort wurde gelöscht.</string>
+    <string name="undo_delete">RÜCKGÄNGIG MACHEN</string>
+    <string name="seven_digits_bug">Kann nicht größer als 7 Stellen sein</string>
+    <string name="password_cannot_be_empty">Passwort kann nicht leer sein!</string>
+</resources>

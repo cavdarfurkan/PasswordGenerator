@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="enter_password">Ingresa tu contraseña:</string>
+    <string name="set_password">Establece tu contraseña:</string>
+    <string name="error_match">Las contraseñas no coinciden</string>
+    <string name="title_activity_settings">Configuraciones</string>
+    <string name="reset_pass">Restablecer la contraseña</string>
+    <string name="password">Contraseña</string>
+    <string name="old_password">Contraseña anterior</string>
+    <string name="password_again">Contraseña de nuevo</string>
+    <string name="generate">Generar</string>
+    <string name="list">Lista</string>
+    <string name="lower_case">Minúscula</string>
+    <string name="upper_case">Mayúscula</string>
+    <string name="length">Longitud:</string>
+    <string name="numbers">Números</string>
+    <string name="symbols">Los símbolos</string>
+    <string name="title">Título</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="save">Salvar</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Eliminar</string>
+    <string name="options">opciones</string>
+    <string name="small_or_equal_zero">No puede ser menor o igual a 0</string>
+    <string name="select_option">Seleccione al menos una opción!</string>
+    <string name="incorrect_password">Contraseña incorrecta</string>
+    <string name="copied_clipboard">Copiada al portapapeles</string>
+    <string name="data_already_exist">Estos datos ya existen</string>
+    <string name="cannot_be_empty">No puede estar vacía!</string>
+    <string name="password_has_been_set">La contraseña ha sido establecida</string>
+    <string name="password_deleted">La contraseña ha sido eliminada.</string>
+    <string name="undo_delete">DESHACER</string>
+    <string name="seven_digits_bug">No puede tener más de 7 dígitos.</string>
+    <string name="password_cannot_be_empty">¡La contraseña no puede estar vacía!</string>
+</resources>

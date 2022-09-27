@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="enter_password">Tapez votre mot de passe:</string>
+    <string name="set_password">Définir votre mot de passe:</string>
+    <string name="error_match">Les mots de passe ne correspondent pas</string>
+    <string name="title_activity_settings">Réglages</string>
+    <string name="reset_pass">réinitialiser le mot de passe</string>
+    <string name="password">Mot de passe</string>
+    <string name="old_password">ancien mot de passe</string>
+    <string name="password_again">Mot de passe à nouveau</string>
+    <string name="generate">produire</string>
+    <string name="list">liste</string>
+    <string name="lower_case">Minuscules</string>
+    <string name="upper_case">Majuscules</string>
+    <string name="length">Longueur:</string>
+    <string name="numbers">Nombres</string>
+    <string name="symbols">Symboles</string>
+    <string name="title">Titre</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="save">sauver</string>
+    <string name="edit">Éditer</string>
+    <string name="delete">Supprimer</string>
+    <string name="options">les options</string>
+    <string name="small_or_equal_zero">Ne peut pas être inférieur ou égal à 0</string>
+    <string name="select_option">Sélectionnez au moins une option!</string>
+    <string name="incorrect_password">Mot de passe incorrect</string>
+    <string name="copied_clipboard">Copié dans le presse-papier</string>
+    <string name="data_already_exist">Ces données existent déjà</string>
+    <string name="cannot_be_empty">Ne peux pas être vide!</string>
+    <string name="password_has_been_set">Le mot de passe a été défini</string>
+    <string name="password_deleted">Le mot de passe a été supprimé.</string>
+    <string name="undo_delete">ANNULER</string>
+    <string name="seven_digits_bug">Ne peut pas dépasser 7 chiffres</string>
+    <string name="password_cannot_be_empty">Le mot de passe ne peut pas être vide!</string>
+</resources>

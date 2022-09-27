@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="enter_password">Wprowadź hasło:</string>
+    <string name="set_password">Ustaw swoje hasło:</string>
+    <string name="error_match">Hasła nie pasują do siebie</string>
+    <string name="title_activity_settings">Ustawienia</string>
+    <string name="reset_pass">Zresetuj hasło</string>
+    <string name="password">Hasło</string>
+    <string name="old_password">Stare hasło</string>
+    <string name="password_again">Hasło ponownie</string>
+    <string name="generate">Generować</string>
+    <string name="list">Lista</string>
+    <string name="lower_case">Małe litery</string>
+    <string name="upper_case">Duże litery</string>
+    <string name="length">Długość:</string>
+    <string name="numbers">Liczby</string>
+    <string name="symbols">Symbolika</string>
+    <string name="title">Tytuł</string>
+    <string name="username">Nazwa Użytkownika</string>
+    <string name="save">Zapisać</string>
+    <string name="edit">Edytować</string>
+    <string name="delete">Usunąć</string>
+    <string name="options">opcje</string>
+    <string name="small_or_equal_zero">Nie może być mniejsza ani równa 0</string>
+    <string name="select_option">Wybierz przynajmniej jedną opcję!</string>
+    <string name="incorrect_password">Niepoprawne hasło</string>
+    <string name="copied_clipboard">Skopiowane do schowka</string>
+    <string name="data_already_exist">Te dane już istnieją</string>
+    <string name="cannot_be_empty">Nie może być pusty!</string>
+    <string name="password_has_been_set">Hasło zostało ustawione</string>
+    <string name="password_deleted">Hasło zostało usunięte.</string>
+    <string name="undo_delete">COFNIJ</string>
+    <string name="seven_digits_bug">Nie może być dłuższy niż 7 cyfr</string>
+    <string name="password_cannot_be_empty">Hasło nie może być puste!</string>
+</resources>

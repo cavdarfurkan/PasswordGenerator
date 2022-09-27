@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.cavdardevelopment.passwordgeneratormanager">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name="com.cavdardevelopment.passwordgeneratormanager.ResetPasswordActivity" android:windowSoftInputMode="adjustResize"/>
+        <activity android:name="com.cavdardevelopment.passwordgeneratormanager.SetLoginPasswordActivity" android:windowSoftInputMode="adjustResize"/>
+        <activity android:name="com.cavdardevelopment.passwordgeneratormanager.LoginPasswordActivity" android:windowSoftInputMode="adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.cavdardevelopment.passwordgeneratormanager.MainActivity" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-2688491793281714~1754061766"/>
+
+    </application>
+
+</manifest>
